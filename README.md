@@ -4,5 +4,5 @@ Everyone is welcome to contribute. If you don't see a logo you want, make an Iss
 
 Format: folder > file.ext, file2.ext, file3.ext, etc.
 
-Allowed symbols for names: [a-z][0-9] 
+Allowed characters for names: [a-z][0-9] 
 
